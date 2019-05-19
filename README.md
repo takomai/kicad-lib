@@ -1,6 +1,6 @@
 # KiCad library
 
-An parts library for KiCad.
+A parts library for KiCad.
 
 ## How to use
 
