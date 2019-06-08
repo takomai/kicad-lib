@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP AE-ATMEGA328-MINI
 D Arduino Pro Mini Compatible
-K Arduino Pro Mini Akizukidenshi AE-ATMEGA328-MINI
+K Arduino Pro Mini Akizuki AE-ATMEGA328-MINI K-10347
 F http://akizukidenshi.com/download/ds/akizuki/ae-atmega328-mini.pdf
 $ENDCMP
 #

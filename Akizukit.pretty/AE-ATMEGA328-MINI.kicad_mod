@@ -1,6 +1,6 @@
-(module "AE-ATMEGA328-MINI" (layer F.Cu) (tedit 5CC70C36)
+(module "AE-ATMEGA328-MINI" (layer F.Cu) (tedit 5CFBF643)
   (descr "AE-ATMEGA328-MINI, http://akizukidenshi.com/download/ds/akizuki/ae-atmega328-mini.pdf")
-  (tags "Arduino pro mini Akizukidenshi AE-ATMEGA328-MINI")
+  (tags "Arduino pro mini Akizuki AE-ATMEGA328-MINI K-10347")
   (fp_text reference "REF**" (at 7.62 -3.81 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
