@@ -6,4 +6,10 @@ K Arduino Pro Mini Akizukidenshi AE-ATMEGA328-MINI
 F http://akizukidenshi.com/download/ds/akizuki/ae-atmega328-mini.pdf
 $ENDCMP
 #
+$CMP AE-ESP-WROOM-02-DEV
+D ESP-WROOM-02 development board
+K akizuki ESP WROOM K-12236
+F http://akizukidenshi.com/download/ds/akizuki/AE-ESP-WROOM02-DEV.pdf
+$ENDCMP
+#
 #End Doc Library
