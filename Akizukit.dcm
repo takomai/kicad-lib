@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AE-ADT7410
+D I2C Temperature Sensor, ±0.5ºC, 16bit
+K AE-ADT7410 i2c temperature sensor Akizuki M-06675
+F http://akizukidenshi.com/download/ds/akizuki/AE-ADT7410_aw.pdf
+$ENDCMP
+#
 $CMP AE-ATMEGA328-MINI
 D Arduino Pro Mini Compatible
 K Arduino Pro Mini Akizuki AE-ATMEGA328-MINI K-10347
