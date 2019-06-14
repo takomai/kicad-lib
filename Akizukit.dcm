@@ -6,6 +6,12 @@ K AE-ADT7410 i2c temperature sensor Akizuki M-06675
 F http://akizukidenshi.com/download/ds/akizuki/AE-ADT7410_aw.pdf
 $ENDCMP
 #
+$CMP AE-AQM0802
+D I2C LCD AQM0802A + PCA9515 bus repeater
+K AE-AQM0802 I2C LCD AQM0802A PCA9515 bus repeater Akizuki K-11354
+F http://akizukidenshi.com/download/ds/akizuki/ae-aqm0802a.pdf
+$ENDCMP
+#
 $CMP AE-ATMEGA328-MINI
 D Arduino Pro Mini Compatible
 K Arduino Pro Mini Akizuki AE-ATMEGA328-MINI K-10347
