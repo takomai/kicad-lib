@@ -18,4 +18,10 @@ K akizuki ESP WROOM K-12236
 F http://akizukidenshi.com/download/ds/akizuki/AE-ESP-WROOM02-DEV.pdf
 $ENDCMP
 #
+$CMP AE-PCA9306
+D Dual bidirectional I2C voltage-level translator
+K AE-PCA9406 I2C voltage translator Akizuki M-05452
+F http://akizukidenshi.com/download/ds/akizuki/m5452-ae-pca9306.pdf
+$ENDCMP
+#
 #End Doc Library
