@@ -18,6 +18,12 @@ K Arduino Pro Mini Akizuki AE-ATMEGA328-MINI K-10347
 F http://akizukidenshi.com/download/ds/akizuki/ae-atmega328-mini.pdf
 $ENDCMP
 #
+$CMP AE-DRV8835-S
+D Motor Driver for Two DC Motors or One Stepper Motor
+K drv8835 DC Stepper Motor Driver Akizuki AE-DRV8835-S
+F http://akizukidenshi.com/download/ds/ti/drv8835.pdf
+$ENDCMP
+#
 $CMP AE-ESP-WROOM-02-DEV
 D ESP-WROOM-02 development board
 K akizuki ESP WROOM K-12236
