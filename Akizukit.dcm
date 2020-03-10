@@ -36,6 +36,12 @@ K AE-PCA9406 I2C voltage translator Akizuki M-05452
 F http://akizukidenshi.com/download/ds/akizuki/m5452-ae-pca9306.pdf
 $ENDCMP
 #
+$CMP SPG20-1332
+D COPAL 6-wire unipolar stepper motor
+K unipolar stepper motor 6-wire Akizuki P-05710 COPAL SPG20-1332
+F http://akizukidenshi.com/download/SPG20-1362.pdf
+$ENDCMP
+#
 $CMP TA7291P
 D TOSHIBA Motor Driver
 K TA7291P TOSHIBA MOTOR DRIVER Akizuki I-02001
