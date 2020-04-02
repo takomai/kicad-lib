@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Arduino_Nano_Every
+D Arduino Nano Every
+K Arduino Nano Every
+F https://content.arduino.cc/assets/NANOEveryV3.0_sch.pdf
+$ENDCMP
+#
 $CMP Arduino_Pro_Mini
 D Arduino Pro Mini
 K Arduino Pro Mini
