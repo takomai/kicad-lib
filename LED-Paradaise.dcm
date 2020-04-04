@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_Tapes
+D Several LEDs and Resistor in Tape
+K LED diode tape 2835
+F ~
+$ENDCMP
+#
+#End Doc Library
