@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATtiny85-20PU
+D 20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, DIP-8
+K AVR 8bit Microcontroller tinyAVR ATtiny
+$ENDCMP
+#
 $CMP Arduino_Nano_Every
 D Arduino Nano Every
 K Arduino Nano Every
